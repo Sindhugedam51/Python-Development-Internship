@@ -99,6 +99,12 @@ Total Attempts: 3
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-David Paul
+**Sindhu Gedam**
+
+B.Tech Computer Science and Engineering (CSE)
+
+Python Developer | Aspiring Software Engineer
+
+---
