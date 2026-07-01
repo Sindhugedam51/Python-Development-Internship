@@ -1,0 +1,7 @@
+Python is an easy programming language.
+
+Python is widely used for web development.
+
+Python is also used in Artificial Intelligence.
+
+Learning Python is fun and interesting.

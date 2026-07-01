@@ -1,0 +1,4 @@
+java is an easy programming language.
+java is used for web development.
+java is also used in Artificial Intelligence.
+Learning java is fun.
